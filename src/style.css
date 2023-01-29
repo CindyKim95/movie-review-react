@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+body {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    font-family: 'PT Serif', serif;
+    font-size: 40px;
+}
+
+h6 {
+    margin-top: 4px;
+}
+
+.images {
+    height: 500px;
+    width: auto;
+    border: 5px solid rgb(199, 48, 48);
+}
+
+.scream-section {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    border: 3px solid black;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+.killbill-section {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    border: 3px solid black;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.charliesangels-section {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    border: 3px solid black;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.whitechicks-section {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    border: 3px solid black;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.stars-react {
+    margin-left: 45%;
+    margin-right: auto;
+}
+
+.display-review {
+    margin-top: 3px;
+}
